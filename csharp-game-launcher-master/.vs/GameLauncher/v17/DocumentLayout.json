@@ -61,8 +61,7 @@
               "RelativeToolTip": "GameLauncher\\GameLauncher.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-14T15:16:07.294Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-13T19:53:13.109Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "GameLauncher\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-03-14T15:36:10.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:36:10.564Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "GameLauncher\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-03-14T15:27:42.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:27:42.231Z"
             },
             {
               "$type": "Document",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "GameLauncher\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T15:15:55.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T15:15:55.684Z"
             },
             {
               "$type": "Document",
@@ -139,8 +134,7 @@
               "RelativeToolTip": "GameLauncher\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T19:53:18.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T19:53:18.855Z"
             },
             {
               "$type": "Document",
@@ -151,8 +145,7 @@
               "ToolTip": "C:\\Users\\mapsp\\Documents\\GitHub\\The-Shooter-Launcher\\csharp-game-launcher-master\\GameLauncher\\App.xaml",
               "RelativeToolTip": "GameLauncher\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T19:53:08.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T19:53:08.709Z"
             },
             {
               "$type": "Document",
@@ -176,8 +169,7 @@
               "ToolTip": "C:\\Users\\mapsp\\Documents\\GitHub\\The-Shooter-Launcher\\csharp-game-launcher-master\\GameLauncher\\MainWindow.xaml",
               "RelativeToolTip": "GameLauncher\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T19:41:22.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T19:41:22.644Z"
             }
           ]
         }
